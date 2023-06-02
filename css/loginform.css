@@ -36,7 +36,6 @@
 .input-holder {
     display: flex;
     flex-direction: column;
-    height: 76px;
     padding: 4px 0;
 }
 .label {
